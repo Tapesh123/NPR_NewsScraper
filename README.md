@@ -1,12 +1,13 @@
-# Eat-Da-Burger! 
-Deployed in Heroku
+# NPR New Scraper
 
-https://still-thicket-14937.herokuapp.com/burgers
+Scrape some news from the famous NPR news website! 
+
+
 
 ## Overview
 
 
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
+In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.
 
 
 ## Dependencies
@@ -23,9 +24,9 @@ In this assignment, you'll create a burger logger with MySQL, Node, Express, Han
 
 * request
 
-![Image of NPR News APP](https://github.com/Tapesh123/Eat-Da-Burger/blob/master/EatDaBurger.gif)
+![Image of NPR News APP](https://github.com/Tapesh123/NPR_NewsScraper/blob/master/NPRscraper.gif)
 
 
-Deployed in Heroku
+# Deployed in Heroku
 
-in process
+Under construction!
