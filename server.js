@@ -28,7 +28,7 @@ app.set('view engine', 'handlebars');
 // ---------------------------------------------------------------------------------------------------------------
 // Connect to localhost if not a production environment
 var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/nprnews"
-
+mongoose.Promise = Promise;
 
   mongoose.connect(MONGODB_URI);
 

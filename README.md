@@ -29,4 +29,4 @@ In this assignment, you'll create a web app that lets users view and leave comme
 
 # Deployed in Heroku
 
-Under construction!
+https://frozen-basin-89263.herokuapp.com/articles

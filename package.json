@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "A Node.js &amp; MongoDB webapp that web-scrapes news data and allows users to comment about it.",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tomtom28/mongodb-web-scraper.git"
@@ -25,5 +23,8 @@
     "mongoose": "^5.0.11",
     "morgan": "^1.7.0",
     "request": "^2.79.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
